@@ -1,0 +1,10 @@
+
+
+
+(test
+(name test)
+(libraries ounit rec))
+
+(env
+  (dev
+(flags (:standard -warn-error -A))))

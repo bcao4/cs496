@@ -1,0 +1,27 @@
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:0:positive-const is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:2:simple-arith-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:4:nested-arith-right is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:6:unbound-variable-2 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:8:implicit-refs2 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:11:create-object is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:13:field_and_param_scope1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:15:self1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:17:sharedf-counter is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:17:sharedf-counter.

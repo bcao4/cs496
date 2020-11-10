@@ -1,0 +1,14 @@
+(** @canonical Let.Ast *)
+module Ast = Let__Ast
+
+(** @canonical Let.Ds *)
+module Ds = Let__Ds
+
+(** @canonical Let.Interp *)
+module Interp = Let__Interp
+
+(** @canonical Let.Lexer *)
+module Lexer = Let__Lexer
+
+(** @canonical Let.Parser *)
+module Parser = Let__Parser

@@ -1,0 +1,36 @@
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:0:newref1.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:0:newref1 is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:0:newref1.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:2:setref1.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:2:setref1 is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:2:setref1.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:5:pair1 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:5:pair1  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:5:pair1 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:7:pair3 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:7:pair3  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:7:pair3 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:9:unpair1 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:9:unpair1  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:9:unpair1 .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:11:pair_bool_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:11:pair_bool_int  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:11:pair_bool_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:13:single_ele_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:13:single_ele_int  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:13:single_ele_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:14:single_ele_bool .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:14:single_ele_bool  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:14:single_ele_bool .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:17:hd_list_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:17:hd_list_int  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:17:hd_list_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:18:tl_list_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:18:tl_list_int  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:18:tl_list_int .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:21:not_null_tree .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:21:not_null_tree  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:21:not_null_tree .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:22:get_data_tree .
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:22:get_data_tree  is successful.
+2020-04-30T02:25:28+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:22:get_data_tree .

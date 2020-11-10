@@ -1,0 +1,27 @@
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:1:negative-const is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:3:nested-arith-left is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:5:unbound-variable-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:7:implicit-refs is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:9:create-empty-class.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:9:create-empty-class is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:9:create-empty-class.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:10:create-class-with-field-and-method is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:12:simple1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:14:send-msg1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:16:counter-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:16:counter-1.

@@ -1,0 +1,12 @@
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:1:add.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:1:add is successful.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:1:add.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:2:adds.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:2:adds is successful.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:2:adds.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:4:lets.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:4:lets is successful.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:4:lets.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:6:letrec_even_odd.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:6:letrec_even_odd is successful.
+2020-04-01T18:17:34+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:6:letrec_even_odd.

@@ -1,0 +1,14 @@
+(** @canonical Rec.Ast *)
+module Ast = Rec__Ast
+
+(** @canonical Rec.Ds *)
+module Ds = Rec__Ds
+
+(** @canonical Rec.Interp *)
+module Interp = Rec__Interp
+
+(** @canonical Rec.Lexer *)
+module Lexer = Rec__Lexer
+
+(** @canonical Rec.Parser *)
+module Parser = Rec__Parser

@@ -1,0 +1,185 @@
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Runner: processes
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Chooser: simple
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration suite_name = "suite"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration cache_filename = "/Users/brandon/Desktop/sa2_stub/_build/default/test/oUnit-$(suite_name).cache"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration run_gc_full_major = "true"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration display = "true"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration results_style_1_X = "false"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration testdata_dir = "none"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration health_check_interval = "1."
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration verbose = "false"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration chooser = "simple"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration output_html_dir = "none"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration processes_kill_period = "5."
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration runner = "processes"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration shards = "2"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration processes_grace_period = "5."
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration log_encoding = "utf-8"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration output_junit_file = "none"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration ci = "false"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Configuration output_file = "/Users/brandon/Desktop/sa2_stub/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Using 2 workers maximum.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Starting worker number Brandons-MacBook-Pro-2.local#01.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Worker Brandons-MacBook-Pro-2.local#01 started.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Starting worker number Brandons-MacBook-Pro-2.local#02.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Worker Brandons-MacBook-Pro-2.local#02 started.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:1:negative-const, suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:1:negative-const, suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:1:negative-const, suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:0:positive-const is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:1:negative-const, suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:1:negative-const, suite:0:positive-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:2:simple-arith-1, suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:2:simple-arith-1, suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:1:negative-const is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:2:simple-arith-1, suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:2:simple-arith-1, suite:1:negative-const.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:3:nested-arith-left, suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:3:nested-arith-left, suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:2:simple-arith-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:3:nested-arith-left, suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:3:nested-arith-left, suite:2:simple-arith-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:4:nested-arith-right, suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:4:nested-arith-right, suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:3:nested-arith-left is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:4:nested-arith-right, suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:4:nested-arith-right, suite:3:nested-arith-left.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:5:unbound-variable-1, suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:5:unbound-variable-1, suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:4:nested-arith-right is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:5:unbound-variable-1, suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:5:unbound-variable-1, suite:4:nested-arith-right.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:5:unbound-variable-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:6:unbound-variable-2, suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:6:unbound-variable-2, suite:5:unbound-variable-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:7:implicit-refs, suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:7:implicit-refs, suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:6:unbound-variable-2 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:7:implicit-refs, suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:7:implicit-refs, suite:6:unbound-variable-2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:7:implicit-refs is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:8:implicit-refs2, suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:8:implicit-refs2, suite:7:implicit-refs.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:9:create-empty-class, suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:9:create-empty-class.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:9:create-empty-class, suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:8:implicit-refs2 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:9:create-empty-class is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:9:create-empty-class, suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:9:create-empty-class.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:9:create-empty-class, suite:8:implicit-refs2.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:11:create-object, suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:11:create-object, suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:11:create-object, suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:10:create-class-with-field-and-method is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:11:create-object, suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:11:create-object, suite:10:create-class-with-field-and-method.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:11:create-object is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:12:simple1, suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:12:simple1, suite:11:create-object.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:13:field_and_param_scope1, suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:13:field_and_param_scope1, suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:12:simple1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:13:field_and_param_scope1, suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:13:field_and_param_scope1, suite:12:simple1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:14:send-msg1, suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:14:send-msg1, suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:13:field_and_param_scope1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:14:send-msg1, suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:14:send-msg1, suite:13:field_and_param_scope1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:15:self1, suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:15:self1, suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:14:send-msg1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:15:self1, suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:15:self1, suite:14:send-msg1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:16:counter-1, suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Start test suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:16:counter-1, suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:15:self1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:16:counter-1, suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:16:counter-1, suite:15:self1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 2 tests running : suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Start test suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 2 tests running : suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: Test suite:16:counter-1 is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 2 tests running : suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#02 I: End test suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 2 tests running : suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 2 tests running: suite:17:sharedf-counter, suite:16:counter-1.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 1 tests running : suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 1 tests running: suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: Test suite:17:sharedf-counter is successful.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 1 tests running : suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 1 tests running: suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#01 I: End test suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Still 1 tests running : suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 1 tests running: suite:17:sharedf-counter.
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: 0 tests running: .
+2020-05-12T18:04:26+00:00 Brandons-MacBook-Pro-2.local#00 I: Worker Brandons-MacBook-Pro-2.local#01 has ended.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Worker Brandons-MacBook-Pro-2.local#02 died unexpectedly.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Used 2 worker during test execution.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Run 9 tests with shard Brandons-MacBook-Pro-2.local#02.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Run 9 tests with shard Brandons-MacBook-Pro-2.local#01.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Check health of shard Brandons-MacBook-Pro-2.local#02, 5 times.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Check health of shard Brandons-MacBook-Pro-2.local#01, 1 times.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: ==============
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Summary:
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:17:sharedf-counter is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:16:counter-1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:15:self1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:14:send-msg1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:13:field_and_param_scope1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:12:simple1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:11:create-object is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:10:create-class-with-field-and-method is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:9:create-empty-class is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:8:implicit-refs2 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:7:implicit-refs is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:6:unbound-variable-2 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:5:unbound-variable-1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:4:nested-arith-right is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:3:nested-arith-left is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:2:simple-arith-1 is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:1:negative-const is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Test suite:0:positive-const is successful.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Ran: 18 tests in: 0.11 seconds.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Cases: 18.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Tried: 18.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Errors: 0.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Failures: 0.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Skip: 0.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Todo: 0.
+2020-05-12T18:04:27+00:00 Brandons-MacBook-Pro-2.local#00 I: Timeout: 0.
